@@ -15,7 +15,7 @@ class script(object):
 - Updates - https://t.me/CTP_Official  
 
 <b>DEVS:</b>
-- <a href=https://t.me/CTP_OFFICIAL>Team Eva Maria</a>"""
+- <a href=https://t.me/CTP_OFFICIAL>CTP OFFICIAL</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
